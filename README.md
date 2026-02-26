@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zaamun
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Cloud Technology
+- 👀 I’m interested in Gaming and Coding
+- 🌱 I have already studied about Cloud Technology and Full-Stack Development
 - 💞️ I’m looking to collaborate on Cloud Works
-- 📫 How to reach me:- subhambachchas@gmail.com
+- 📫 How to reach me:- subhamkumarbhuyan@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Partial gamer partial coder
 
